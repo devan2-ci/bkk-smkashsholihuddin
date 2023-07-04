@@ -29,31 +29,6 @@ if(isset($_GET['page']) == 'home'){
   <meta name="keywords" content="smk, sekolah, sekolah menengah kejuruhan">
   <meta name="author" content="Devan Eka Prasetian">
 
-  <!--OG-->
-  <!--
-  <meta content="en_US" property="og:locale">
-  <meta content="PT Etawa Dairy Industry" property="og:site_name">
-  <meta content="website" property="og:type">
-  <meta content="https://etawaku.com/" property="og:url">
-  <meta content="Etawa Dairy" property="og:title">
-  <meta content="Etawa Dairy Industry membangun ekosistem industri susu kambing yang terintegrasi dari hulu ke hilir. Visi utamanya adalah memberikan sumber protein susu alternatif yang sehat, bergizi, terjangkau dan memberdayakan ekonomi masyarakat" property="og:description">
-  <meta content="assets/img/logo etawa dairy 2.png" property="og:image">
-  <meta content="1200" property="og:image:width">
-  <meta content="630" property="og:image:height">
-  <meta content="Etawa Dairy" property="og:image:alt">
-  -->
-  <!--Twitter-->
-  <!--
-  <meta content="summary_large_image" name="twitter:card">
-  <meta content="@" name="twitter:creator">
-  <meta content="PT Etawa Dairy" name="twitter:title">
-  <meta content="Etawa Dairy Industry membangun ekosistem industri susu kambing yang terintegrasi dari hulu ke hilir. Visi utamanya adalah memberikan sumber protein susu alternatif yang sehat, bergizi, terjangkau dan memberdayakan ekonomi masyarakat" name="twitter:description">
-  <meta content="assets/img/logo etawa dairy 2.png" name="twitter:image">
-  <meta content="800" name="twitter:image:width">
-  <meta content="418" name="twitter:image:height">
-  <meta content="Etawa Dairy" name="twitter:image:alt">
-  -->
-
   <!-- Favicons -->
   <link href="assets/img/icon-school.png" rel="icon">
   <link href="assets/img/icon-school.png" rel="apple-touch-icon">
