@@ -149,9 +149,9 @@ if(isset($_GET['page']) == 'home'){
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>SMK Ash Sholihuddin</h3>
             <p>
-              Jalan Pesantren 72, <br>
-              Desa Sumbersuko, Kecamatan Dampit,<br>
-              Kabupaten Malang, 65181<br><br>
+              Jl. Pesantren No.72 RT.21 RW.03 Sumbertangkep, Desa Sumbersuko,<br>
+              Kecamatan Dampit, Kabupaten Malang,<br>
+              Jawa Timur, 65181<br><br>
               <strong>Telp:</strong> 081335235736<br>
               <!-- <strong>Email:</strong> info@example.com<br> -->
             </p>
